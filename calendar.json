@@ -1,0 +1,124 @@
+{
+    "jornadas": [
+        {
+            "jornada": 1,
+            "partidos": [
+                {
+                    "local": "Athletic Club",
+                    "visitante": "Getafe"
+                },
+                {
+                    "local": "Betis",
+                    "visitante": "Girona"
+                },
+                {
+                    "local": "Celta",
+                    "visitante": "Alavés"
+                },
+                {
+                    "local": "Las Palmas",
+                    "visitante": "Sevilla"
+                },
+                
+                {
+                    "local": "Osasuna",
+                    "visitante": "Leganés"
+                },
+                {
+                    "local": "Valencia",
+                    "visitante": "Barcelona"
+                },
+                {
+                    "local": "Real Sociedad",
+                    "visitante": "Rayo Vallecano"
+                },
+                {
+                    "local": "Mallorca",
+                    "visitante": "Real Madrid"
+                },
+                {
+                    "local": "Valladolid",
+                    "visitante": "Espanyol"
+                },
+                {
+                    "local": "Villarreal",
+                    "visitante": "Atlético de Madrid"
+                }
+            ]
+        },
+        {
+            "jornada": 2,
+            "partidos": [
+                {
+                    "local": "Celta de Vigo",
+                    "visitante": "Valencia"
+                },
+                {
+                    "local": "Sevilla",
+                    "visitante": "Villarreal"
+                },
+                {
+                    "local": "Espanyol",
+                    "visitante": "Real Sociedad"
+                },
+                {
+                    "local": "Getafe",
+                    "visitante": "Osasuna"
+                },
+                {
+                    "local": "Real Betis",
+                    "visitante": "Atlético de Madrid"
+                },
+                {
+                    "local": "Leganés",
+                    "visitante": "Las Palmas"
+                },
+                {
+                    "local": "Mallorca",
+                    "visitante": "Barcelona"
+                },
+                {
+                    "local": "Athletic Club",
+                    "visitante": "Deportivo Alavés"
+                }
+            ]
+        },
+        {
+            "jornada": 3,
+            "partidos": [
+                {
+                    "local": "Villarreal",
+                    "visitante": "Celta de Vigo"
+                },
+                {
+                    "local": "Mallorca",
+                    "visitante": "Deportivo Alavés"
+                },
+                {
+                    "local": "Barcelona",
+                    "visitante": "Osasuna"
+                },
+                {
+                    "local": "Athletic Club",
+                    "visitante": "Valencia"
+                },
+                {
+                    "local": "Real Sociedad",
+                    "visitante": "Girona"
+                },
+                {
+                    "local": "Espanyol",
+                    "visitante": "Getafe"
+                },
+                {
+                    "local": "Rayo Vallecano",
+                    "visitante": "Leganés"
+                },
+                {
+                    "local": "Real Betis",
+                    "visitante": "Sevilla"
+                }
+            ]
+        }
+    ]
+}
