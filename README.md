@@ -4,6 +4,7 @@ Este proyecto trata de un programa para calcular las mejores opciones de jugador
 ## Tabla de Contenidos
 - [Installation](#installation)
 - [Usage](#usage)
+- [Features](#features)
 - [Contributing](#contributing)
 
 ## Instalación
@@ -20,11 +21,14 @@ Este proyecto trata de un programa para calcular las mejores opciones de jugador
  ## Usage
  Antes de iniciar el programa, puedes ir a `main.js` y en la penúltima línea cambiar el array `myPlayers` y escribir tus jugadores. Lo mismo en `market.js`, donde puedes
  poner los jugadores del mercado.
- 
+
 To run the project, use the following command:
 ```bash
 npm start
 ```
+## Features
+- Análisis de los jugadores para la próxima jornada
+- Análisis del mercado y recomendación de fichajes
 
 ## Contributing
 1. Fork the repository.
