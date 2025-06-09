@@ -162,5 +162,5 @@ async function recommendPlayers(players) {
 }
 
 // Uso del programa
-const marketPlayers = ['Le Normand', 'Marcos André', 'Aihen', 'Larin', 'Maffeo', 'Mandi', 'Kubo', 'Iñaki Peña', 'Unai G', 'Odriozola'];
+const marketPlayers = ['Unai García', 'Marcos André', 'Aihen', 'Larin', 'Maffeo', 'Mandi', 'Kubo', 'Iñaki Peña', 'Unai G', 'Odriozola'];
 recommendPlayers(marketPlayers);
